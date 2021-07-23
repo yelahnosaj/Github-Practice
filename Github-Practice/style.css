@@ -1,5 +1,10 @@
+*{
+    margin: 5px;
+    padding: 5px;  
+}
 h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: aquamarine;
+    margin: 50px;
     
 }
